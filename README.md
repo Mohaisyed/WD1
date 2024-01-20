@@ -1,5 +1,3 @@
-# WD1
-html testing
 <!DOCTYPE html>
 <html lang="en">
 <head>
